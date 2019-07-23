@@ -134,7 +134,7 @@ section{
     top: 0;
     opacity: 2;
 }*/
-/*Í.*/
+/*I.*/
 
 @media (max-width: 575px) { 
 
@@ -143,8 +143,9 @@ section{
     position: absolute;
     top: 20%;
     left: 15%;
-    font-size: 14px !important;
+    font-size: 12px !important;
     transform: translate(-20%, -70%);
+    display: none;
     color: white;
     z-index: 3;
      text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
