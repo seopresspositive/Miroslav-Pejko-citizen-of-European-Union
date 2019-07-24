@@ -1,9 +1,0 @@
-# Group 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-# Group 2
-User-agent: *
-Allow: /
-
-Sitemap: https://github.com/seopresspositive/Miroslav-Pejko-citizen-of-European-Union/sitemap.xml
